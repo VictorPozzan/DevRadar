@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "react-app": "^1.1.2",
-    "serialize-javascript": "^2.1.2",
+    "serialize-javascript": "^3.1.0",
     "web": "^0.0.2"
   }
 }
